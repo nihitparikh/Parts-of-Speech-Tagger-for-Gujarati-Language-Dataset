@@ -1,0 +1,6 @@
+window_size,epochs,accuracy
+3,2,0.953198548682711
+window_size,epochs,accuracy
+4,2,0.9531985863363851
+window_size,epochs,accuracy
+5,2,0.9531981564813223

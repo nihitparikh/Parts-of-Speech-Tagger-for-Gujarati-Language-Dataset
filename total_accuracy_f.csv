@@ -1,0 +1,4 @@
+window_size,epochs,batch_size,accuracy
+4,100,200,0.9316218967767472
+window_size,epochs,batch_size,accuracy
+5,100,200,0.9317086476801277
